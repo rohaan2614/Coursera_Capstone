@@ -1,0 +1,3 @@
+The data for this study has been sourced from Seattle Traffic department. Its data about many accidents that occured on a single location but under varying condions e.g the road condtion differs throughout the year. What makes this a good data set is the number of records and the number of attributes recorded for all accidents. 
+
+E.g if there is a positive co-relation between severity and wetness of the road, a correlation will produce a quantity over 0.70. In case a relation between the number of passengers in a car and the severity of the car crash needs to be investigated, this data set has all the required data to figure that out. 
